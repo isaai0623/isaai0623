@@ -1,5 +1,5 @@
 <img src="https://gpvc.arturio.dev/leonmax0623" alt="Profile views" align='right'/> <a href="https://github.com/leonmax0623/leonmax0623/"> </a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Incredable+Senior+Front+End+Developer;Full+Stack+Web+Developer;Enthusiastic+Javascript+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%20Incredable+Senior+Front+End+Developer;Full+Stack+Web+Developer;Enthusiastic+Javascript+Developer;I%20will%20provide%20you%20prompt%20updates%20and%20100% %20satisfaction.&center=true&width=380&height=45"></a>
 <br/>
 <samp>
 Thank you for Visiting my Github Profile!

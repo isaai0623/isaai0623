@@ -1,5 +1,5 @@
 <img src="https://gpvc.arturio.dev/leonmax0623" alt="Profile views" align='right'/> <a href="https://github.com/leonmax0623/leonmax0623/"> </a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Carattere&size=40&duration=4500&width=600&height=80&lines=The+Prompt+updates+%26+100%25+Satisfaction+by...By...;The+Incredable+Full-Stack+Developer...;The+Passionate+UX%2FUI+Designer...;The+Self-Driven+Smart+Coder..."></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Carattere&size=40&duration=4500&width=600&height=80&lines=The+Prompt+updates+%26+100%25+Satisfaction+by...;The+Incredable+Full-Stack+Developer...;The+Passionate+UX%2FUI+Designer...;The+Self-Driven+Smart+Coder..."></a>
 <br/>
 <samp>
 Thank you for Visiting my Github Profile!<br/>

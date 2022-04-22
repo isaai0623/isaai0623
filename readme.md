@@ -40,10 +40,10 @@ Best Regards!
 
 
 ```javascript
-const Arda U = {
-	gmail: "ardaunverdi07@gmail.com",
-	skype: "live:.cid.3c5d1d664d63a84e",
-	phone: "+90 5427448140"
+const Mr. M@ximus = {
+	gmail: "leonmax0623@gmail.com",
+	skype: "live:.cid.acd90f88cd6bdaf5",
+	telegram: "mxms_ln"
 }
 ```
 

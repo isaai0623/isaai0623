@@ -1,28 +1,27 @@
 <img src="https://gpvc.arturio.dev/leonmax0623" alt="Profile views" align='right'/> <a href="https://github.com/leonmax0623/leonmax0623/"> </a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Talented+Senior+Front+End+Developer;Full+Stack+Web+Developer;Enthusiastic+Javascript+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Incredable+Senior+Front+End+Developer;Full+Stack+Web+Developer;Enthusiastic+Javascript+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 <br/>
 <samp>
-I am an enthusiastic JavaScript developer who loves solving difficult technical issues.
-TypeScript, JavaScript, React, Angular, Vue.js, Express are my specialists.
+Thank you for Visiting my Github Profile!
+Meet most competitive, self-driven and diligent Full-Stack Dev here!
 </samp>
 <br/>
 <br/>
-Here is the list of frameworks and languages what I've worked with before.
+As a passionate and thorough Full-stack Developer with hands-on experience, overall my programming skills include:
+- React, Redux, Next.js, Vue, Vuex, Nuxt.js
+- Node.js, Express.js, Koa and Adonis Node Frameworks, PHP, Laravel, Laravel-mix
+- MySQL, PostgreSQL, MongoDB
+- HTML 5, Javascript, Typescript, SASS, SCSS, UX/UI developing, Pixel Perfect, Material UI, Tailwind CSS, Vuetify, Quasar
+- API Integrations with RestFul API and GraphQL, Firebase, AWS such as Cloud Front, Amplify, Lambda.
 
-- Front-end Skills: React, Angular 2+, Vue2, Vue3 , JavaScript/jQuery,
-  HTML5, CSS3, Bootstrap
-- Back-end Skills:  Node.JS/Express.JS, 
-  PHP (Laravel, CakePHP, Yii 1.x&2, CodeIgniter, Zend, 
-  Symfony, WordPress, ROR), 
-  Python(Django, flask)
-- Database Skills: Development and Utilization,
-	Optimization and Administration 
-	MySQL, MSSQL, MongoDB, PostgreSQL, Oracle ... )
-- Hybrid Mobile: iOS App Development in Objective C / Swift,
-  Android App Development in Java / Kotlin
-  React-native, Ionic, Flutter, Cordova, PhoneGap.
-- Blockchain: NFT marketplace, Cryptocoins Exchainge Development
-  Smart Contracts(Solidity), Token Development based on Ethereum, Binance
+This is not the exhaustive list of what I can do and if you need any kind of work related to these technologies, I will be your best choice!
+
+You could not be more satisfied with my works.
+I'm here for you to work according to your requirements and satisfaction.
+
+EVERYTHING is up to me!
+
+Best Regards!
 
 ### Github States
 

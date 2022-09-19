@@ -1,39 +1,25 @@
-## Senior Front-end Developer
+## Middle Plus FullStack Dev!
 
-Hello, Everyone. Thank you for having a look at my profile
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&width=435&lines=Frontend+Oriented+Web+Dev" alt="Typing SVG" /></a>
 
-I am an enthusiastic JavaScript developer who loves solving difficult technical issues.
-TypeScript, JavaScript, React, Angular, Vue.js, Express are my specialists.
+I'm dedicated and through Full Stack Web Developer with huge amount experience in various tech spheres.
 
-Here is a list of what I've worked with:
+Main stack include:
+➢ Vue, Nuxt.js, Vuex, React, Next.js, Redux
+➢ PHP, Laravel, Laravel-mix, Node.js, Nest.js, Koa and Adonis JS for Node framework
+➢ Javascript, Typescript, SASS, SCSS, Tailwind CSS, Material UI, BootstrapVue, Quasar, Vuetify, Restful API, GraphQL
+➢ MySQL, PostgreSQL, MongoDB, Firebase, AWS(S3, Amplify, EC2), Stripe.com, WebSocket, Socket.io
+➢ Git flow, Trello, Jira, Monday, Asana, Upwork Tracker, Hubstuff, TopTracker
 
-- Front-end Skills: React, Angular 2+, Vue2, Vue3 , JavaScript/jQuery,
-  HTML5, CSS3, Bootstrap
-- Back-end Skills:  Node.JS/Express.JS, 
-  PHP (Laravel, CakePHP, Yii 1.x&2, CodeIgniter, Zend, 
-  Symfony, WordPress, ROR), 
-  Python(Django, flask)
-- Database Skills: Development and Utilization,
-        Optimization and Administration 
-        MySQL, MSSQL, MongoDB, PostgreSQL, Oracle ... )
-- Hybrid Mobile: iOS App Development in Objective C / Swift,
-  Android App Development in Java / Kotlin
-  React-native, Ionic, Flutter, Cordova, PhoneGap.
-- Blockchain: NFT marketplace, Cryptocoins Exchainge Development
-  Smart Contracts(Solidity), Token Development based on Ethereum, Binance
+Always concentrate on 100% of satisfaction for the Client!
+Moreover, I love working on business ideas of clients and turning the thoughts into a full-blown reality.
 
-```javascript
-const callEliteBy = (type) => {
-        switch(type) {
-                case: "Skype":
-                        return "live:.cid.3c5d1d664d63a84e";
-                case: "gmail":
-                        return "toptalent0107@gmil.com";
-                default:
-                        break;
-        }
-}
-```
+Go with me instead of wasting your time on others!
+
+Thank you for visiting my Profile!
+
+Regards...
+
 
 ### Github Stats
 

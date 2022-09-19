@@ -1,10 +1,10 @@
 ## Middle Plus FullStack Dev!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1000&width=435&lines=Frontend+Oriented+Web+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=55&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Frontend+Oriented+Web+Dev" alt="Typing SVG" /></a>
 
 I'm dedicated and through Full Stack Web Developer with huge amount experience in various tech spheres.
 
-Main stack include:
+Main stack include:</br>
 ➢ Vue, Nuxt.js, Vuex, React, Next.js, Redux
 ➢ PHP, Laravel, Laravel-mix, Node.js, Nest.js, Koa and Adonis JS for Node framework
 ➢ Javascript, Typescript, SASS, SCSS, Tailwind CSS, Material UI, BootstrapVue, Quasar, Vuetify, Restful API, GraphQL

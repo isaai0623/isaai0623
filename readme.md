@@ -1,15 +1,15 @@
 ## Middle Plus FullStack Dev!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=55&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Frontend+Oriented+Web+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=55&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Frontend+Oriented+Web+Developer" alt="Typing SVG" /></a>
 
 I'm dedicated and through Full Stack Web Developer with huge amount experience in various tech spheres.
 
 Main stack include:</br>
-➢ Vue, Nuxt.js, Vuex, React, Next.js, Redux
-➢ PHP, Laravel, Laravel-mix, Node.js, Nest.js, Koa and Adonis JS for Node framework
-➢ Javascript, Typescript, SASS, SCSS, Tailwind CSS, Material UI, BootstrapVue, Quasar, Vuetify, Restful API, GraphQL
-➢ MySQL, PostgreSQL, MongoDB, Firebase, AWS(S3, Amplify, EC2), Stripe.com, WebSocket, Socket.io
-➢ Git flow, Trello, Jira, Monday, Asana, Upwork Tracker, Hubstuff, TopTracker
+➢ Vue, Nuxt.js, Vuex, React, Next.js, Redux</br>
+➢ PHP, Laravel, Laravel-mix, Node.js, Nest.js, Koa and Adonis JS for Node framework</br>
+➢ Javascript, Typescript, SASS, SCSS, Tailwind CSS, Material UI, BootstrapVue, Quasar, Vuetify, Restful API, GraphQL</br>
+➢ MySQL, PostgreSQL, MongoDB, Firebase, AWS(S3, Amplify, EC2), Stripe.com, WebSocket, Socket.io</br>
+➢ Git flow, Trello, Jira, Monday, Asana, Upwork Tracker, Hubstuff, TopTracker</br>
 
 Always concentrate on 100% of satisfaction for the Client!
 Moreover, I love working on business ideas of clients and turning the thoughts into a full-blown reality.

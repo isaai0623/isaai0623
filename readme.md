@@ -5,7 +5,7 @@
 I'm dedicated and through Full Stack Web Developer with huge amount experience in various tech spheres.
 
 Main stack include:</br>
-➢ Vue, Nuxt.js, Vuex, React, Next.js, Redux</br>
+➢ Vue, Nuxt.js, Vue3 with Composition API, Vuex, Pinia, React, Next.js, Redux, Redux-Thunk</br>
 ➢ PHP, Laravel, Laravel-mix, Node.js, Nest.js, Koa and Adonis JS for Node framework</br>
 ➢ Javascript, Typescript, SASS, SCSS, Tailwind CSS, Material UI, BootstrapVue, Quasar, Vuetify, Restful API, GraphQL</br>
 ➢ MySQL, PostgreSQL, MongoDB, Firebase, AWS(S3, Amplify, EC2), Stripe.com, WebSocket, Socket.io</br>

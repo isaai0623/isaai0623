@@ -1,4 +1,4 @@
-## Middle Plus FullStack Dev!
+## Senior Frontend | FullStack Dev!
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=55&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Frontend+Oriented+Web+Developer" alt="Typing SVG" /></a>
 
